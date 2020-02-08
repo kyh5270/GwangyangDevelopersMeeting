@@ -1,7 +1,7 @@
 # GwangyangDevelopers-Meeting
 광양 개발자 모임 학습 동아리
 
-## Colab 사용팁
+## Colab 사용 Tip
  1. Google Colab 환경설정 및 사용법
   - https://theorydb.github.io/dev/2019/08/23/dev-ml-colab/
   - https://gumu.kr/blog/353/%EA%B5%AC%EA%B8%80-colab-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/
