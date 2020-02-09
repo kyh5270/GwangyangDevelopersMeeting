@@ -40,5 +40,6 @@
   
 ## Jupyter Notebook 사용 팁
  1. Notebook 사용 팁
- 
+  - http://blog.naver.com/PostView.nhn?blogId=is_king&logNo=221527516004&parentCategoryNo=&categoryNo=77&viewDate=&isShowPopularPosts=true&from=search
  2. Markdown 사용 팁
+  - https://post.naver.com/viewer/postView.nhn?volumeNo=24627214&memberNo=42458017
