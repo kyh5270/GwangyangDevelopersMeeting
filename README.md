@@ -1,5 +1,4 @@
-# GwangyangDevelopersMeeting
-광양 개발자 모임 학습 동아리
+# KaggleStudy
 
 ## Colab 사용 Tip
  1. Google Colab 환경설정 및 사용법
